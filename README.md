@@ -14,8 +14,6 @@
 -->
 <div align="center">
 
-**Add your YouTube video embed below by replacing `VIDEO_ID`:**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JfEx5KIGv_0" title="GCS-SITL Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
