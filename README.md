@@ -8,15 +8,7 @@
 
 ## 📺 Demo Video
 
-<!--
-  Replace the VIDEO_ID below with your actual YouTube video ID.
-  Example: If your video URL is https://youtu.be/abc123, then VIDEO_ID is abc123
--->
-<div align="center">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JfEx5KIGv_0" title="GCS-SITL Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
+[![GCS-SITL Demo](https://img.youtube.com/vi/JfEx5KIGv_0/0.jpg)](https://www.youtube.com/watch?v=JfEx5KIGv_0)
 
 ---
 
