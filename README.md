@@ -8,7 +8,7 @@
 
 ## 📺 Demo Video
 
-[![GCS-SITL Demo](https://img.youtube.com/vi/2n99PLUZUHw_0/0.jpg)](https://www.youtube.com/watch?v=2n99PLUZUHw_0)
+[![GCS-SITL Demo](https://img.youtube.com/vi/2n99PLUZUHw/0.jpg)](https://www.youtube.com/watch?v=2n99PLUZUHw)
 
 ---
 
